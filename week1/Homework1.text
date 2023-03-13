@@ -1,0 +1,11 @@
+A decentralised version of Monopoly would involve using a blockchain network to manage the game state and the players' interactions with the game. In a blockchain-based game, there is no central server or authority controlling the game, and the rules are enforced by the code on the blockchain.
+
+One way to prevent cheating in a decentralised game like Monopoly is to use smart contracts to manage the game logic. Smart contracts can be programmed to automatically enforce the rules of the game and prevent players from cheating. For example, the smart contract could automatically calculate the rent owed on a property when a player lands on it and deduct it from their balance.
+
+Ensuring agreement about the state of the system can be achieved through the use of a consensus algorithm, such as proof-of-work or proof-of-stake. These algorithms enable all nodes in the network to agree on the current state of the game and prevent double-spending or other forms of cheating.
+
+To address communication problems like timeouts, players could use a peer-to-peer network to communicate with each other and the blockchain. This network would enable players to send and receive game state updates quickly and reliably, even if there are network connectivity issues.
+
+To decide who should take the next turn, the game could be structured such that each player takes a turn in a round-robin fashion. Alternatively, players could bid for the right to take the next turn, with the highest bidder getting the next turn.
+
+To allow the correct people to join the game, players would need to authenticate themselves using their private keys. Only those who have the correct private keys could join the game, ensuring that only authorized players can participate.
